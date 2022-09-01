@@ -1,1 +1,2 @@
 Hello mars!
+Mars is a planet
