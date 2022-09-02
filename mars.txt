@@ -2,4 +2,4 @@ Hello mars!
 Mars is a planet
 Mars is a red planet
 I didn't find martians.
-There was only sand.
+There was only sand and rocks.
